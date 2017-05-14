@@ -4,11 +4,11 @@
 https://drive.google.com/open?id=0B8Z7ny3NPnw_NHRoRTNNMGtIR3M
 
 # Identitas Siswa
-Nama lengkap    : Arnetta Rahmawati
-Kelas / No urut : XI RPL 4 / 08
-NIS             : 4673/1392.070
-Angkatan        : 24
-SMK Telkom Malang
+Nama lengkap    : Arnetta Rahmawati<br>
+Kelas / No urut : XI RPL 4 / 08<br>
+NIS             : 4673/1392.070<br>
+Angkatan        : 24<br>
+SMK Telkom Malang<br>
 
 # Alamat API yang digunakan pada Aplikasi
 https://www.themoviedb.org/documentation/api
