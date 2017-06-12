@@ -17,7 +17,7 @@ https://www.themoviedb.org/documentation/api
 Navigation Tabs (Action Bar Tabs)
 
 # Library dari Local Database yang digunakan pada Aplikasi
--
+SQLite
 
 # Deskripsi singkat dari aplikasi minimal 200 karakter
 Aplikasi The-Movie ini merupakan aplikasi yang menggunakan API, dimana API yang digunakan adalah API TMDb atau API yang mengambil data film. 
