@@ -1,7 +1,7 @@
 # The-Movie
 
 # Link File APK release dari Aplikasi
-https://drive.google.com/open?id=0B8Z7ny3NPnw_NHRoRTNNMGtIR3M
+https://drive.google.com/open?id=0B_qdh7zCXJwXTVdJdG9lM1JiWmM
 
 # Identitas Siswa
 Nama lengkap    : Arnetta Rahmawati<br>
